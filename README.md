@@ -1,64 +1,114 @@
-# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> Hello World! I'm Aman Bhatt
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=00C9F7&random=false&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;Spring+Boot+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aman%20Bhatt&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Expert%20|%20Java%20Enthusiast&descAlignY=51&descAlign=62" />
 </div>
 
-## 💻 Tech Stack
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C9F7&random=false&width=600&lines=Turning+Ideas+into+Digital+Reality;Building+Elegant+Full+Stack+Solutions;Creating+Impact+Through+Code" alt="Typing SVG" />
+</div>
+
+<br>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="mailto:Amanbhatt0910@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/aman-bhatt-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/AmanBhatt0910">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Add your portfolio website if you have one -->
+  <!-- <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+  </a> -->
 </p>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanBhatt0910&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanBhatt0910&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<br>
 
-## 🚀 Projects
-Here are some of my featured projects:
-
-<!-- Replace these with your actual projects -->
-- **[Project 1]** - Brief description
-- **[Project 2]** - Brief description
-- **[Project 3]** - Brief description
-
-## 🌱 Currently Learning
-- Advanced Spring Boot concepts
-- System Design principles
-- Cloud architecture with AWS
-
-## 🔍 I'm looking to collaborate on
-- Full stack web applications
-- Open source projects
-- Innovative tech solutions
-
-## 📫 How to reach me
-<div align="center">
-  <a href="mailto:Amanbhatt0910@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aman-bhatt-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <!-- Add your portfolio website if you have one -->
-  <!-- <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=globe&logoColor=white"/></a> -->
-</div>
+<h2 align="center">💻 Tech Stack & Tools</h2>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmanBhatt0910&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</div>
-
-<!-- Add this footer for an extra touch -->
-<div align="center">
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css" />
   
-  ### Show some ❤️ by starring some repositories!
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb" />
   
+  <h3>Tools & Others</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</div>
+
+<br>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanBhatt0910&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanBhatt0910&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanBhatt0910&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<br>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/AmanBhatt0910/project-name">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AmanBhatt0910&repo=project-name&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/AmanBhatt0910/project-name-2">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AmanBhatt0910&repo=project-name-2&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+<br>
+
+<h2 align="center">🌱 Currently Learning</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>🔶 Advanced Spring Boot concepts</td>
+      <td>🔷 System Design principles</td>
+      <td>🔸 Cloud architecture with AWS</td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<h2 align="center">🤝 I'm Looking to Collaborate On</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>🌟 Full stack web applications</td>
+      <td>🔗 Open source projects</td>
+      <td>💡 Innovative tech solutions</td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanBhatt0910&theme=tokyo-night&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmanBhatt0910&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile-views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </div>
 
 <!---
