@@ -1,100 +1,116 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aman%20Bhatt&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Expert%20|%20Java%20Enthusiast&descAlignY=51&descAlign=62" />
+  <!-- Updated Header Capsule with Better Spacing -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:4F46E5,100:EC4899&height=220&section=header&text=Aman%20Bhatt&fontSize=70&fontColor=ffffff&animation=blinking&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Expert%20|%20Java%20Enthusiast&descAlignY=65&descSize=24&descColor=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C9F7&random=false&width=600&lines=Turning+Ideas+into+Digital+Reality;Building+Elegant+Full+Stack+Solutions;Creating+Impact+Through+Code" alt="Typing SVG" />
+  <!-- Modern Typing Effect with Gradient Text -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=800&color=8B5CF6&background=FFFFFF00&center=true&vCenter=true&width=680&height=60&lines=🚀+Turning+Concepts+into+Code;💡+Crafting+Full+Stack+Solutions;🌟+Building+Scalable+Systems;🔥+Java+%26+Cloud+Enthusiast" alt="Typing Animation" />
 </div>
 
 <br>
 
+<!-- Social Links with Modern Icons -->
 <p align="center">
   <a href="mailto:Amanbhatt0910@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:Amanbhatt0910@gmail.com" />
   </a>
   <a href="https://www.linkedin.com/in/aman-bhatt-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/AmanBhatt0910">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/AmanBhatt0910/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
 <br>
 
-<h2 align="center">🚀 Tech Stack</h2>
+<!-- Tech Stack Section with Animated Icons -->
+<h2 align="center">🛠 Tech Arsenal</h2>
 
 <div align="center">
-  <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css" alt="Frontend Technologies" />
-  
-  <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb" alt="Backend Technologies" />
-  
-  <h3>Tools & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws" alt="Tools & DevOps" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,graphql,redux" title="Frontend" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb,postgres" title="Backend" height="50" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,jenkins,redis" title="DevOps" height="50" />
 </div>
 
 <br>
 
-<h2 align="center">📈 GitHub Analytics</h2>
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 Code Chronicles</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanBhatt0910&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanBhatt0910&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanBhatt0910&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanBhatt0910&layout=compact&theme=nightowl&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanBhatt0910&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanBhatt0910&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <br>
 
-<h2 align="center">🌟 Featured Projects</h2>
+<!-- Project Showcase -->
+<h2 align="center">🚀 Featured Innovations</h2>
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  <a href="https://github.com/AmanBhatt0910/project-name">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AmanBhatt0910&repo=project-name&theme=radical&hide_border=true" />
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; padding: 1rem;">
+  <a href="https://github.com/AmanBhatt0910/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanBhatt0910&repo=project1&theme=nightowl&hide_border=true" />
   </a>
-  <a href="https://github.com/AmanBhatt0910/project-name-2">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AmanBhatt0910&repo=project-name-2&theme=radical&hide_border=true" />
+  <a href="https://github.com/AmanBhatt0910/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmanBhatt0910&repo=project2&theme=nightowl&hide_border=true" />
   </a>
 </div>
 
 <br>
 
-<h2 align="center">📚 Learning Journey</h2>
+<!-- Learning Section with Progress Bars -->
+<h2 align="center">🌱 Current Focus</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/System_Design-FF6F00?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System Design" />
+  <img src="https://progress-bar.dev/85/?title=Spring+Microservices&scale=10&width=400&color=6db33f&suffix=+" alt="Spring Progress" />
+  <img src="https://progress-bar.dev/70/?title=AWS+Certification&scale=10&width=400&color=FF9900" alt="AWS Progress" />
+  <img src="https://progress-bar.dev/60/?title=System+Design&scale=10&width=400&color=61dbfb" alt="System Design Progress" />
 </div>
 
 <br>
 
-<h2 align="center">🤝 Collaboration Interests</h2>
+<!-- Collaboration Section -->
+<h2 align="center">🤝 Collaboration Zones</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source" />
-  <img src="https://img.shields.io/badge/SaaS-00C7B7?style=for-the-badge&logo=mailgun&logoColor=white" alt="SaaS" />
-  <img src="https://img.shields.io/badge/Microservices-009688?style=for-the-badge&logo=elasticstack&logoColor=white" alt="Microservices" />
+  <table>
+    <tr>
+      <td align="center">🔗 Enterprise SaaS Solutions</td>
+      <td align="center">⚡ Performance Optimization</td>
+      <td align="center">🔐 Secure Architecture Design</td>
+    </tr>
+    <tr>
+      <td align="center">🌐 Scalable Web Services</td>
+      <td align="center">🧠 AI-Powered Applications</td>
+      <td align="center">📱 Full Stack Mobile Apps</td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-<h2 align="center">📌 Activity Graph</h2>
+<!-- Activity Graph -->
+<h2 align="center">📌 Development Rhythm</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanBhatt0910&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanBhatt0910&theme=github-dark&hide_border=true&area=true&custom_title=Code+Contribution+Map" alt="Activity Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmanBhatt0910&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AmanBhatt0910&label=Profile+Views&style=for-the-badge&color=8B5CF6" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:EC4899,100:4F46E5&height=100&section=footer&animation=blinking" />
 </div>
