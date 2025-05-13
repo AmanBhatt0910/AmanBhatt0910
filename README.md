@@ -10,108 +10,91 @@
 
 <p align="center">
   <a href="mailto:Amanbhatt0910@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/aman-bhatt-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/AmanBhatt0910">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Add your portfolio website if you have one -->
-  <!-- <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
-  </a> -->
 </p>
 
 <br>
 
-<h2 align="center">💻 Tech Stack & Tools</h2>
+<h2 align="center">🚀 Tech Stack</h2>
 
 <div align="center">
   <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css" alt="Frontend Technologies" />
   
   <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb" alt="Backend Technologies" />
   
-  <h3>Tools & Others</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+  <h3>Tools & DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,aws" alt="Tools & DevOps" />
 </div>
 
 <br>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanBhatt0910&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanBhatt0910&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanBhatt0910&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmanBhatt0910&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanBhatt0910&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmanBhatt0910&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🌟 Featured Projects</h2>
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
   <a href="https://github.com/AmanBhatt0910/project-name">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AmanBhatt0910&repo=project-name&theme=tokyonight&hide_border=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AmanBhatt0910&repo=project-name&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/AmanBhatt0910/project-name-2">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AmanBhatt0910&repo=project-name-2&theme=tokyonight&hide_border=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AmanBhatt0910&repo=project-name-2&theme=radical&hide_border=true" />
   </a>
 </div>
 
 <br>
 
-<h2 align="center">🌱 Currently Learning</h2>
+<h2 align="center">📚 Learning Journey</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>🔶 Advanced Spring Boot concepts</td>
-      <td>🔷 System Design principles</td>
-      <td>🔸 Cloud architecture with AWS</td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/System_Design-FF6F00?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System Design" />
 </div>
 
 <br>
 
-<h2 align="center">🤝 I'm Looking to Collaborate On</h2>
+<h2 align="center">🤝 Collaboration Interests</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>🌟 Full stack web applications</td>
-      <td>🔗 Open source projects</td>
-      <td>💡 Innovative tech solutions</td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source" />
+  <img src="https://img.shields.io/badge/SaaS-00C7B7?style=for-the-badge&logo=mailgun&logoColor=white" alt="SaaS" />
+  <img src="https://img.shields.io/badge/Microservices-009688?style=for-the-badge&logo=elasticstack&logoColor=white" alt="Microservices" />
 </div>
 
 <br>
 
-<h2 align="center">📈 Activity Graph</h2>
+<h2 align="center">📌 Activity Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanBhatt0910&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanBhatt0910&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmanBhatt0910&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=AmanBhatt0910&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </div>
-
-<!---
-AmanBhatt0910/AmanBhatt0910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
