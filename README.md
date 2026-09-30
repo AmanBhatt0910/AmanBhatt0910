@@ -27,7 +27,7 @@
 
 ## 🧠 About Me
 
-🎓 **B.Tech CSE** @ Graphic Era Hill University (CGPA 8.55)  
+🎓 **B.Tech CSE** @ Graphic Era Hill University (CGPA 8.53)  
 💼 **Full Stack Developer Intern** — GreenFuel Energy (2025) & Go Hackathon (2023-24)  
 🧰 Specialized in **MERN Stack**, **Spring Boot**, and building **real-world production applications**.  
 📈 Passionate about **system design**, **optimizing performance**, and **creating scalable solutions**.
